@@ -7,7 +7,7 @@
 
 <h4 align="center">
   List your favorite GitHub repositories and see information <br>
-  <a target="blank" align="center" href="https://github-explorer-sigma.vercel.app/">click to access the project</a>
+  <a target="blank" align="center" href="https://github-explorer-users-github.vercel.app/">click to access the project</a>
 </h4>
 
 
