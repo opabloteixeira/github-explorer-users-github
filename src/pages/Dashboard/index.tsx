@@ -71,7 +71,7 @@ const Dashboard: React.FC = () => {
       <Users>
         {users.map((
           // eslint-disable-next-line no-shadow
-          user,
+          user
         ) => (
           <Link key={user.name} to={`repositories/${user.login}`}>
             <img src={user.avatar_url} alt={user.name} />
